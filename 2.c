@@ -4,9 +4,11 @@ int main() {
     char first_name[50];
     char last_name[50];
     
+    //وارد کردن نام
     printf("First Name: ");
     scanf("%s", first_name);
     
+    //وارد کردن نام خانوادگی
     printf("Last Name: ");
     scanf("%s", last_name);
 
